@@ -42,4 +42,4 @@ Visit the portfolio to explore my projects and progress as a developer.
 
 ---
 
-Built and maintained by Kushagra.
+Built and maintained by Kushagra Singh Bisht.
